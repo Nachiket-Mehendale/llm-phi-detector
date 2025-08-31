@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+HEALTHCARE DISCLAIMER:
+This software is provided for research and educational purposes only. It is not
+intended for use in production healthcare environments without proper validation
+and compliance review. Users are responsible for ensuring HIPAA compliance and
+validating PHI removal before using de-identified data in any healthcare application.
